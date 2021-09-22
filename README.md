@@ -6,7 +6,7 @@ It is built with Spring Boot and MySQL using Spring Data JPA.
 This application creates a REST API which uses HTTP requests 
 to access, add, update, or delete an employee. 
 
-The front-end provides these same functions through the web application.
+The front-end consumes this API and provides these same functions through the corresponding web application.
 You can visit the repository for the front-end [here](https://github.com/ramrabadi/Employee-Manager-System-Frontend).
 
 
