@@ -1,4 +1,4 @@
-# Back-end for Employee Manager System
+# Back-end for Employee Manager System 🧑‍💼
 
 This repository hosts the back-end for the Employee Manager System application.
 It is built with Spring Boot and MySQL using Spring Data JPA. 
